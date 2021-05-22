@@ -1,0 +1,102 @@
+body{
+  font-style: 'Montserrat-bold';
+}
+.form{
+  text-align: center;
+
+
+}
+.form-element{
+  padding: 1rem;
+}
+.btn-light{
+  margin: 1rem;
+}
+.fas{
+  margin: 1rem;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+  text-align: center;
+  background-color: #00adb5;
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-white";
+}
+.icon{
+ width: 12rem;
+ height: 3rem;
+ line-height: 2em;
+ text-align: center;
+ margin: 1rem;
+}
+.footer-fab{
+  margin: 0.2rem;
+  align-items: center;
+}
+.footer{
+  margin-left: 75%;
+}
+.container-fluid3{
+  background-color: #f5cebe;
+  margin:0;
+  padding: 2rem 0;
+  border: 0;
+}
+.state-img{
+  height:3rem;
+  width:3rem;
+  border-radius: 50%;
+  display: inline;
+}
+.help-line1{
+  margin:1rem 7rem;
+}
+.card{
+  margin-left: 22rem;
+  margin-right: 22rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+.card-body{
+  background-color: #f5cebe;
+}
+.card-header{
+  background-color: #ddd;
+}
+.nav-link2{
+  margin-left: 18rem;
+}
+.table-row{
+  padding: 1rem 6rem;
+}
+.heading{
+  margin: 2rem;
+  margin-left: 24rem;
+  align-items: center;
+  font-style: italic;
+}
+.navbar{
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.container-fluid2{
+  background-color:#00adb5;
+  margin: 0;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+}

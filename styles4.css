@@ -1,0 +1,84 @@
+.navbar {
+  padding: 0 0 4.5rem;
+  text-align: center;
+  background-color: #00adb5;
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-white";
+}
+.footer-fab{
+  margin: 0.5rem;
+  align-items: center;
+}
+
+.container-fluid3{
+  background-color: #ddd;
+  margin:0;
+  padding: 2rem;
+  padding-left: 60rem;
+  border: 0;
+}
+.state-img{
+  height:4rem;
+  width:4rem;
+  border-radius: 50%;
+  display: inline;
+}
+.state-img2{
+  height:4rem;
+  width:4rem;
+  border-radius: 50%;
+  display: inline;
+}
+.help-line1{
+  margin:1rem 7rem;
+}
+.card{
+  margin-left: 25rem;
+  margin-right: 29rem;
+  margin-top: 4rem;
+  text-align: center;
+}
+.card-body{
+  background-color: #f5cebe;
+}
+.card-header{
+  background-color: #ddd;
+}
+.form-element{
+  padding: 1rem;
+}
+.nav-link2{
+
+  margin-left: 18rem;
+}
+.heading{
+  margin: 2rem;
+  margin-left: 24rem;
+  align-items: center;
+  font-style: italic;
+}
+.navbar{
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
+.container-fluid{
+  background-color:#00adb5;
+  margin: 0;
+  padding-top: 2rem;
+    padding-bottom: 2rem;
+}

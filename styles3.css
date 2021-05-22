@@ -1,0 +1,113 @@
+body{
+  background-color: #00adb5;
+}
+.navbar {
+  padding: 0 0 4.5rem;
+  text-align: center;
+  background-color: #00adb5;
+  padding-bottom: 2rem;
+}
+
+.navbar-brand {
+  font-size: 3.5rem;
+  font-weight: bold;
+}
+
+.nav-item {
+  padding: 0 12px;
+}
+
+.nav-link {
+  font-size: 1.2rem;
+  font-family: "Montserrat-white";
+}
+.form{
+  text-align: center;
+  background-color: #ddd;
+
+  padding-bottom:2rem;
+}
+.form-element{
+  padding: 1rem;
+}
+.card{
+  margin-top: 4rem;
+}
+.card-body{
+  background-color: #f5cebe;
+}
+.card-header{
+  background-color: #ddd;
+}
+
+.footer-fab{
+  margin: 0.5rem;
+  align-items: center;
+}
+
+.container-fluid3{
+  background-color: #ddd;
+  margin:0;
+  padding: 2rem;
+  padding-left: 60rem;
+  border: 0;
+}
+
+.help-line1{
+  margin:1rem 7rem;
+}
+.nav-link2{
+  margin-left: 18rem;
+}
+.tests{
+  position: relative;
+  bottom: 57rem;
+  left:30rem;
+  width:15rem;
+  height:15rem;
+  float:left;
+}
+.tests2{
+
+  position: relative;
+  bottom: 45rem;
+  left:35rem;
+  width:15rem;
+  height:15rem;
+  float:left;
+}
+.tests3{
+
+  position: relative;
+  bottom: 33rem;
+  left:0rem;
+  width:15rem;
+  height:15rem;
+  float:left;
+}
+.tests4{
+  position: relative;
+  bottom: 20rem;
+  left:5rem;
+  width:15rem;
+  height:15rem;
+  float:left;
+}
+.card{
+  margin-left: 4rem;
+  margin-right: 52rem;
+  text-align: center;
+}
+.container-fluid{
+  background-color:#00adb5;
+  margin: 0;
+  padding-top: 2rem;
+  padding-bottom: 2rem;
+
+}
+.navbar{
+  background-color: #393e46;
+  text-align: center;
+  margin: 0;
+  padding: 0;
+}
